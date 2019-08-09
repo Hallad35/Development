@@ -1,0 +1,7 @@
+imie=input('podaj mi twoje imie')
+print('milo mi cie poznac' ,imie)
+print('ile masz lat?')
+wiek=input()
+print('z jakiego peronu odjezdzal h potter?')
+peron=input()
+print(imie,'w tym wieku nie ma juz sensu jechac na peron',peron)
